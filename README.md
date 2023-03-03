@@ -7,15 +7,12 @@ Instrucrtion to create:
 
 The easiest way:
 	
-Download the file [Additional Teams Install.zip](https://github.com/WindyWanderer/MacOS-Additional-Microsoft-Teams-Application/blob/be8eb293e4a65256401220e0cffed5ebe1be6011/Additional%20Teams%20Install.zip)
+* Download the file [Additional Teams Install.zip](https://github.com/WindyWanderer/MacOS-Additional-Microsoft-Teams-Application/blob/be8eb293e4a65256401220e0cffed5ebe1be6011/Additional%20Teams%20Install.zip)
 	
-Unzip the file
-	
-Run the application "Additional Teams Install.app", allow access to the current directory.
-	
-It will ask for the location if the "install.sh" file - please point it (unpacked from the archive, for sure  )
-	
-Follow the instructions.
+* Unzip the file
+* Run the application "Additional Teams Install.app", allow access to the current directory.
+* It will ask for the location if the "install.sh" file - please point it (unpacked from the archive, for sure  )
+* Follow the instructions.
 
 The "other" way:
 
