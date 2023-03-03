@@ -3,7 +3,7 @@
 Additional Microsoft Teams application for using on MacOS (You may use it for example for another corporate account - so there will be one app (native) teams for Your company and another one for the client).
 
 Inspired by [this](https://github.com/tavikukko/teams-desktop) instruction.
-Instrucrtion to create:
+Instructions to create the additional app:
 
 The easiest way:
 	
