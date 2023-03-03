@@ -7,7 +7,7 @@ Instrucrtion to create:
 
 The easiest way:
 	
-Download the file Additional Teams Install.zip
+Download the file [Additional Teams Install.zip](https://github.com/WindyWanderer/MacOS-Additional-Microsoft-Teams-Application/blob/be8eb293e4a65256401220e0cffed5ebe1be6011/Additional%20Teams%20Install.zip)
 	
 Unzip the file
 	
