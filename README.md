@@ -42,3 +42,7 @@ P.P.S. in order for the notifications to work - receive the first one (e.g. send
 notifications.
 
 Stick it to dock and you'll b good to go. Enjoy!
+
+
+# Known issues
+* Screen sharing doesn't work yet.
