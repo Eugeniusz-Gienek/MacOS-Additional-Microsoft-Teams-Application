@@ -16,10 +16,19 @@ The easiest way:
 
 The "other" way:
 
-* Firstly, install npm (I assume you have installed brew, haven't you? If not - here's the instruction: https://brew.sh/index_pl ): `brew install npm`
-* Next, install Nativefier: `npm install nativefier -g`
-* Last, go to the folder where the application will live - let's say, you would like to create the myapps folder: `mkdir ~/myapps && cd ~/myapps`
-* ...and then create an app using nativefier: `nativefier -n "Teams-desktop" --internal-urls "./.*/" "https://teams.microsoft.com/_#"`.
+* Firstly, install npm (I assume you have installed brew, haven't you? If not - here's the instruction: https://brew.sh/index_pl ):
+ 
+  `brew install npm`
+* Next, install Nativefier:
+   
+  `npm install nativefier -g`
+* Last, go to the folder where the application will live - let's say, you would like to create the myapps folder:
+  
+  `mkdir ~/myapps && cd ~/myapps`
+* ...and then create an app using nativefier:
+ 
+  `nativefier -n "Teams-desktop" --internal-urls "./.*/" "https://teams.microsoft.com/_#"`
+ 
   By the way - you may change the nanme from "Teams-desktop" to whatever you want - for example, "MySuperCLientName Teams"  or whatever.
 
 ---
